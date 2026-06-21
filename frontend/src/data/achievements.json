@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ac1",
+    "title": "Zonal Cricket Champions",
+    "sport": "Cricket",
+    "year": "2024",
+    "description": "KHIT Men's Cricket team won the JNTUK Zone-D championship tournament.",
+    "recipient": "Men's Cricket Team",
+    "image": "/assets/gallery/logo.jpg"
+  },
+  {
+    "id": "ac2",
+    "title": "State-Level Badminton Gold",
+    "sport": "Badminton",
+    "year": "2024",
+    "description": "P. Sneha secured 1st place in the Singles Division at the Inter-Engineering Meet.",
+    "recipient": "P. Sneha (IT Dept)",
+    "image": "/assets/gallery/logo.jpg"
+  }
+]

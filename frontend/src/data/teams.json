@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cricket-men",
+    "name": "Men's Cricket Team",
+    "sport": "Cricket",
+    "gender": "Men",
+    "coach": "Prof. R. Sen",
+    "captain": "Rahul Verma",
+    "department": "Engineering",
+    "established": 2018,
+    "achievements": ["State Tournament Runners-Up 2023"],
+    "image": "/assets/teams/cricket-men.jpg"
+  },
+  {
+    "id": "basketball-women",
+    "name": "Women's Basketball Team",
+    "sport": "Basketball",
+    "gender": "Women",
+    "coach": "Dr. Sarah Kovac",
+    "captain": "Anjali Sharma",
+    "department": "MBA",
+    "established": 2019,
+    "achievements": ["Inter-College Champions 2024"],
+    "image": "/assets/teams/basketball-women.jpg"
+  }
+]

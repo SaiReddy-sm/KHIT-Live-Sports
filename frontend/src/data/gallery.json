@@ -1,0 +1,16 @@
+[
+  {
+    "id": "g1",
+    "title": "Cricket Finals Celebration",
+    "sport": "Cricket",
+    "category": "Tournament",
+    "image": "/assets/gallery/logo.jpg"
+  },
+  {
+    "id": "g2",
+    "title": "Volleyball Practice Session",
+    "sport": "Volleyball",
+    "category": "Training",
+    "image": "/assets/gallery/logo.jpg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e1",
+    "title": "Annual Sports Meet 2025",
+    "sport": "All Sports",
+    "date": "2025-06-15",
+    "venue": "College Campus Grounds",
+    "description": "Registration open for track & field, volleyball, and table tennis.",
+    "status": "Open",
+    "image": "/assets/events/annual-sports-2025.jpg"
+  }
+]

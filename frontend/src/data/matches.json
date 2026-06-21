@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m1",
+    "sport": "Cricket",
+    "teamId": "cricket-men",
+    "opponent": "LIT College",
+    "date": "2025-05-12",
+    "time": "10:00 AM",
+    "venue": "KHIT Main Ground",
+    "status": "Upcoming",
+    "result": ""
+  },
+  {
+    "id": "m2",
+    "sport": "Basketball",
+    "teamId": "basketball-women",
+    "opponent": "Apex University",
+    "date": "2025-04-10",
+    "time": "02:00 PM",
+    "venue": "Indoor Stadium",
+    "status": "Completed",
+    "result": "Won (58 - 42)"
+  }
+]

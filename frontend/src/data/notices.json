@@ -1,0 +1,18 @@
+[
+  {
+    "id": "n1",
+    "title": "Basketball Selection Trials",
+    "date": "2025-05-20",
+    "category": "Trials",
+    "content": "Selection trials for the Men's and Women's Basketball teams will take place at the outdoor court from 4:00 PM onwards.",
+    "important": true
+  },
+  {
+    "id": "n2",
+    "title": "Practice Schedule Revision",
+    "date": "2025-05-18",
+    "category": "General",
+    "content": "Morning ground practice timings are rescheduled to 6:00 AM - 7:30 AM due to rising summer temperatures.",
+    "important": false
+  }
+]

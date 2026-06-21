@@ -1,0 +1,36 @@
+[
+  {
+    "id": "p1",
+    "teamId": "cricket-men",
+    "name": "Rahul Verma",
+    "rollNo": "KH18CS045",
+    "department": "CSE",
+    "year": "4th Year",
+    "sport": "Cricket",
+    "gender": "Men",
+    "role": "Captain / All-Rounder",
+    "stats": {
+      "matches": 24,
+      "runs": 540,
+      "wickets": 18
+    },
+    "image": "/assets/players/rahul-verma.jpg"
+  },
+  {
+    "id": "p2",
+    "teamId": "basketball-women",
+    "name": "Anjali Sharma",
+    "rollNo": "KH19MB012",
+    "department": "MBA",
+    "year": "2nd Year",
+    "sport": "Basketball",
+    "gender": "Women",
+    "role": "Captain / Point Guard",
+    "stats": {
+      "matches": 18,
+      "points": 210,
+      "assists": 84
+    },
+    "image": "/assets/players/anjali-sharma.jpg"
+  }
+]
