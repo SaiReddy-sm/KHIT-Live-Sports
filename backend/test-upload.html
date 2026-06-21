@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KHIT Sports - Image Upload Test</title>
+  <style>
+    body { font-family: sans-serif; background: #f8fafc; padding: 50px; text-align: center; }
+    .card { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); max-width: 400px; margin: auto; }
+    button { background: #7A1E2D; color: white; border: none; padding: 10px 20px; border-radius: 6px; font-weight: bold; cursor: pointer; margin-top: 15px; }
+    input { margin-top: 10px; }
+  </style>
+</head>
+<body>
+
+  <div className="card">
+    <h3 style="color: #7A1E2D;">KHIT Sports Upload Test</h3>
+    <p style="font-size: 13px; color: #64748B;">Select an image to test local upload</p>
+    
+    <!-- This posts directly to your backend API -->
+    <form action="http://localhost:5000/api/upload" method="POST" enctype="multipart/form-data">
+      <input type="file" name="image" accept="image/*" required />
+      <br />
+      <button type="submit">Upload Image</button>
+    </form>
+  </div>
+
+</body>
+</html>
